@@ -5,7 +5,7 @@ Bluejay is a collection of tools to investigate the association between columns 
 It was designed to compare lineage membership vs. AP of variants, to find lineage specific mutations in the TB-ARC projects
 
 
-Downloads are availble: http://abeellab.org/jenkins/bluejay/
+Downloads are availble: http://genomeview.org/jenkins/bluejay/
 
 == Basic usage
 
